@@ -15,7 +15,6 @@ body{
     flex-wrap: wrap;
     /* flex-direction: column; */   
     font-family: Poppins, Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
-    margin-left: 1.3rem
 }
 .link-bar{
     display:flex;
