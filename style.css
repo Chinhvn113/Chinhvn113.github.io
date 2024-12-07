@@ -204,3 +204,8 @@ body{
         --angle: 413deg;
     }
 }
+@media only screen and (max-width: 450px) {
+    body{
+        margin-left: 2.3rem
+    }
+}
